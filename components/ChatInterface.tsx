@@ -300,7 +300,7 @@ export function ChatInterface() {
                     <Handshake className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
-                    SParenting guidance
+                    Parenting guidance
                   </h3>
                   <p className="text-sm text-gray-600">
                     Expert advice and strategies to help parents raise children and build strong family relationships.
