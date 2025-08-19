@@ -278,7 +278,7 @@ export function ChatInterface() {
               <p className="text-gray-600 mb-8 max-w-lg mx-auto leading-relaxed">
                 This assistant is based on Sonia Ricotti's public content.
                 Responses are for informational purposes only and may not be
-                100% accurate. All intellectual property belongs to Dan Buglio.
+                100% accurate. All intellectual property belongs to Sonia Ricotti.
               </p>
 
               {/* Feature highlights */}
@@ -300,10 +300,10 @@ export function ChatInterface() {
                     <Handshake className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
-                    Parenting guidance
+                    Bounce Back
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Expert advice and strategies to help parents raise children and build strong family relationships.
+                    Bestselling resilience expert helping millions overcome adversity, attract abundance, and achieve extraordinary success globally.
                   </p>
                 </div>
 
@@ -315,7 +315,7 @@ export function ChatInterface() {
                     Video Resources
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Get specific video guidance from Dan's content library
+                    Get specific video guidance from Sonia's content library
                   </p>
                 </div>
               </div>
@@ -338,7 +338,7 @@ export function ChatInterface() {
                 <p className="text-gray-600 mb-6 max-w-lg mx-auto text-sm leading-relaxed">
                   This assistant is based on Sonia Ricotti's public content.
                   Responses are for informational purposes only and may not be
-                  100% accurate. All intellectual property belongs to Dan Buglio.
+                  100% accurate. All intellectual property belongs to Sonia Ricotti.
                 </p>
 
                 {/* Feature highlights */}
@@ -360,10 +360,10 @@ export function ChatInterface() {
                       <Handshake className="w-5 h-5 text-green-600" />
                     </div>
                     <h4 className="font-semibold text-gray-800 mb-1 text-sm">
-                      Parenting guidance
+                      Bounce Back
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Expert advice and strategies to help parents raise children and build strong family relationships.
+                      Bestselling resilience expert helping millions overcome adversity, attract abundance, and achieve extraordinary success globally.
                     </p>
                   </div>
 
@@ -375,7 +375,7 @@ export function ChatInterface() {
                       Video Resources
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Get specific video guidance from Dan's content library
+                      Get specific video guidance from Sonia's content library
                     </p>
                   </div>
                 </div>
