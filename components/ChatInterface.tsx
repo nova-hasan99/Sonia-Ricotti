@@ -19,6 +19,8 @@ import {
   HeartCrack,
   Handshake,
   Youtube,
+  LifeBuoy,
+  Waves,
 } from 'lucide-react';
 
 
@@ -297,7 +299,7 @@ export function ChatInterface() {
 
                 <div className="text-center p-4">
                   <div className="w-12 h-12 bg-green-100 rounded-2xl flex items-center justify-center mx-auto mb-3">
-                    <Handshake className="w-6 h-6 text-green-600" />
+                    <Waves className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
                     Bounce Back
@@ -357,7 +359,7 @@ export function ChatInterface() {
 
                   <div className="text-center p-3">
                     <div className="w-10 h-10 bg-green-100 rounded-xl flex items-center justify-center mx-auto mb-2">
-                      <Handshake className="w-5 h-5 text-green-600" />
+                      <Waves className="w-5 h-5 text-green-600" />
                     </div>
                     <h4 className="font-semibold text-gray-800 mb-1 text-sm">
                       Bounce Back
